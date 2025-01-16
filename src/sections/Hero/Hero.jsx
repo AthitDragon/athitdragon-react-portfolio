@@ -36,7 +36,7 @@ function Hero() {
       </div>
       <div className={styles.info}>
         <h1>
-          Athit <br /> Dragon
+          Athit <br /> Dragons
         </h1>
         <h2>Frontend Developer</h2>
         <span>
