@@ -36,9 +36,9 @@ function Hero() {
       </div>
       <div className={styles.info}>
         <h1>
-          Athit <br /> Dragons
+          Athit <br /> Dragon
         </h1>
-        <h2>Frontend Developer</h2>
+        <h2>Software Developer</h2>
         <span>
           <a href="https://www.facebook.com/gkorn.tkd/" target="_blank">
             <img src={facebookIcon} alt="facebook icon" />

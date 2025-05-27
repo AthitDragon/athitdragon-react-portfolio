@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <Hero />
-      <Projects />
+      {/* <Projects /> */}
       <Skills />
       <Contact />
       <Footer />
