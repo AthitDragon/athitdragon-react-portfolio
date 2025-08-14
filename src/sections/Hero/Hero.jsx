@@ -9,7 +9,7 @@ import githubLight from "../../assets/github-light.svg";
 import githubDark from "../../assets/github-dark.svg";
 import facebookLight from "../../assets/facebook-light.svg";
 import facebookDark from "../../assets/facebook-dark.svg";
-import CV from "../../assets/AthitCV.pdf";
+import newCV from "../../assets/Athit-CV.pdf";
 import { useTheme } from "../../common/ThemeContext";
 
 function Hero() {
@@ -53,7 +53,7 @@ function Hero() {
         <p className={styles.description}>With a passion for developing modern React web apps for commercial 
             business.
         </p>
-        <a href={CV} download>
+        <a href={newCV} download>
             <button className="hover">Resume</button>
         </a>
       </div>
