@@ -38,7 +38,7 @@ function Hero() {
         <h1>
           Athit <br /> Dragon
         </h1>
-        <h2>Software Developer</h2>
+        <h2>Software Support / Tester</h2>
         <span>
           <a href="https://www.facebook.com/gkorn.tkd/" target="_blank">
             <img src={facebookIcon} alt="facebook icon" />
@@ -50,7 +50,7 @@ function Hero() {
             <img src={githubIcon} alt="Github icon" />
           </a>
         </span>
-        <p className={styles.description}>With a passion for developing modern React web apps for commercial 
+        <p className={styles.description}>With a passion for developing modern web apps for commercial 
             business.
         </p>
         <a href={newCV} download>
